@@ -99,20 +99,6 @@ DIVIDE        DISTINCTCOUNT MAXX          VALUES
 
 ---
 
-## 📂 Project Structure
-
-```
-📦 Global-Airbnb-Performance-Dashboard
- ┣ 📂 screenshots
- ┃ ┣ 📸 overview.png
- ┃ ┣ 📸 ratings.png
- ┃ ┗ 📸 reviews.png
- ┣ 📊 Airbnb_Global_Performance.pbix
- ┗ 📄 README.md
-```
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository
@@ -132,4 +118,4 @@ If you found this project useful or have suggestions, feel free to open an issue
 
 ---
 
-*Made with ❤️ using Power BI*
+
