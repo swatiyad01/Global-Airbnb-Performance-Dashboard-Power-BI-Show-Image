@@ -8,7 +8,7 @@
 
 ---
 
-Live Dashboard Link https://app.powerbi.com/view?r=eyJrIjoiMzMyOWQzYTktMDVmMC00NTkzLTgwNDEtYjcyN2IxMTMxYTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard Link [https://app.powerbi.com/view?r=eyJrIjoiMzMyOWQzYTktMDVmMC00NTkzLTgwNDEtYjcyN2IxMTMxYTU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://bit.ly/4fPsYA4)
 
 ## 📊 Dashboard Preview
 
