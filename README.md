@@ -8,7 +8,7 @@
 
 ---
 
-Live Dashboard Link https://bit.ly/4fPsYA4
+Live Dashboard Link[ https://bit.ly/4fPsYA4](https://bit.ly/3PIBGFT)
 
 ## 📊 Dashboard Preview
 
